@@ -4,11 +4,6 @@
 
 Clone da página de login da netflix, com alguns ajustes feito por mim.
 
-## Layout mobile
-
-### Página login
-![mobile](https://user-images.githubusercontent.com/110262864/200135019-85e9b723-a7f1-463e-a43f-ba79699dae27.png)
-
 ## Layout web
 
 ### Página login
